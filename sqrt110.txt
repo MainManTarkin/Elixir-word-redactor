@@ -1,0 +1,15 @@
+The square root of 110
+For this elusive number, where do I look
+It is like searching for a long lost friend in a phone book
+
+Somewhere between one and one-ten it must be
+Pick a value in the middle, square it, and see
+
+If the squared value is bigger than one-ten
+Make the middle value the brand new end
+
+If the squared value falls somewhere in between
+Move the start to where the middle had been
+
+Repeat 'til the square matches our number
+Our lost friend has been found, awoken from slumber
